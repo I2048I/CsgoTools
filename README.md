@@ -1,7 +1,7 @@
 # CSGO Cosmetic Quantification Tool
 The latest version V1.0.0_220228
 
-中文[点这里](https://github.com/I2048I/CsgoTools/README_SC.md)
+中文[点这里](https://github.com/I2048I/CsgoTools/blob/main/README_SC.md)
 
 - **Introduction**
 
