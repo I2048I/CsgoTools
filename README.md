@@ -1,5 +1,5 @@
 # CSGO Cosmetic Quantification Tool
-The latest version V1.0.0_220228
+The latest version V1.1.0_220309
 
 中文[点这里](https://github.com/I2048I/CsgoTools/blob/main/README_SC.md)
 
@@ -7,7 +7,7 @@ The latest version V1.0.0_220228
 
   The CSGO jewelry quantification tool is developed based on Java, and it collects the price information of accessories on the Buff and Steam platform for quantitative analysis to achieve profitability.
   
-  There are two output modes of the tool, one is to display and output in the command line terminal, and the other is to output based on html pages.
+  The tool has only one output mode, which is based on HTML pages.
   
   Currently the tool is free to use, but not open source.
   
